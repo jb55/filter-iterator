@@ -3,6 +3,8 @@
 
   filter an iterator by a predicate function
 
+  [![Build Status](https://travis-ci.org/jb55/filter-iterator.png)](https://travis-ci.org/jb55/filter-iterator)
+
 ## Installation
 
   Install with npm
