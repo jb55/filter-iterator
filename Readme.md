@@ -3,7 +3,7 @@
 
   filter an iterator by a predicate function
 
-  [![Build Status](https://travis-ci.org/jb55/filter-iterator.png)](https://travis-ci.org/jb55/filter-iterator)
+  [![Build Status](https://travis-ci.org/jb55/filter-iterator.svg)](https://travis-ci.org/jb55/filter-iterator)
 
 ## Installation
 
