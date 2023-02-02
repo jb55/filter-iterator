@@ -3,6 +3,7 @@
   "description": "filter a javascript iterator",
   "keywords": ["filter", "iterator", "generator"],
   "version": "0.0.1",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git://github.com/jb55/filter-iterator.git"
